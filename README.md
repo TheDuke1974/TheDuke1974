@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TheDuke1974
-- 👀 I’m interested in ... VS Code - Lisp - Google Colab - Fooocus - SD, SDXL
-- 🌱 I’m currently learning ... Google Colab - Fooocus - SD, SDXL
+- 👀 I’m interested in ... ComfyUI - Claude - Claude Code
 - 📫 How to reach me ... purbinati74@gmail.com
 
 <!---
